@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Minha Primeira PyBr"
+date: 2017-11-13 22:30:55
+category:
+---
+# Uma Semana Incrível
+
+Ainda estou no rítimo emocionante e empolgante da minha primeira participação em um evento como a python Brasil, demais sensacional, nunca imagenei estar conhecendo pessoas tão extraordinárias em termos de conhecimento e ao mesmo tempo tão sensacionais em receptividade, eu me senti no meio de meus amigos de infância. Trocar idéias com aquela galera me deu uma outra visão do que realmente é ser bem sucedido, de como através de iteração com as pessoas e somente através desse envolvimento constante e continuo você pode realmente trocando conhecimento e experiências ir construindo seus ideais profissionais e pessoais, por isso eu continuo dizendo o melhor do evento sao as pessoas.
+
+## A Mudança É Inevitável
+
+Depois desse evento eu aprendi que fazer amizade conhecer pessoas não só uma estratégia, mas sim uma necessidade de almentar nossa rede no cilco de iteração que nos deixa cada vez próximo daquilo que pensamos ser o ideal na nossa carreira com profissionais, na nossa relação com as pessoas com seres humanos, em rede de oportunidades que vai continuar a crescer.
+
+### O Processo 
+
+Até chegar a este evento foi uma longa história que caso esteja curioso por conhecer então curte [minha história](http://henriquebastos.net/conheca-gleison-oliveira/), lá vai estar mais detalhes com tudo isso aconteceu e porque estamos nos conhecendo neste exato momento, então pessoal é isso aí no proximo post vou contar um pouco mim e que andei fazendo depos da python brasil um abraço. 
