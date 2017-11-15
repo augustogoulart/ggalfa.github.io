@@ -15,7 +15,6 @@ github_username:  ggalfa
 
 # Build settings
 markdown: kramdown
-permalink: /:title
 theme: minima
 plugins:
   - jekyll-feed
