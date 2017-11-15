@@ -2,7 +2,7 @@
 layout: post
 title: "Minha Primeira PyBr"
 date: 2017-11-13 22:30:55
-category:
+category: Informação
 ---
 # Uma Semana Incrível
 
