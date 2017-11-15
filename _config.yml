@@ -25,7 +25,11 @@ github_username:  ggalfa
 
 # Build settings
 markdown: kramdown
+<<<<<<< HEAD
 theme: cayman
+=======
+theme: jekyll-theme-minimal
+>>>>>>> 45287f59ad4879d092078e877a4c4fef7e6c8f35
 plugins:
   - jekyll-feed
 
