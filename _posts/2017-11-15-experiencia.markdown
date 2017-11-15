@@ -10,7 +10,7 @@ category: Informação
 ![oficial-image](https://pbs.twimg.com/media/DLvVtq7W4AEj3-V.jpg:large)
 
 Acredito que as principais lições foi primeiro que as vezes estamos tão impactados com a tecnologia    
-que nem nos damos que tudo isso só existe por causa das pessoas que perdem noites de sono, abdicam     
+que nem nos damos conta que tudo isso só existe por causa das pessoas que perdem noites de sono, abdicam     
 algumas horas com sua família para expressar atráves do código toda sua genialidade programando.
 
 ## Lições Para a Carreira Profissional
